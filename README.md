@@ -1,2 +1,2 @@
 # HCR
-Human Centered Robotics 
+Human Centered Robotics | Bartender Robot
